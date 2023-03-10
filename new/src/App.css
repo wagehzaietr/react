@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+
+  :root{
+    --width-primary: 1000px;
+    --max-width: 100%;
+    --padding: 0 20px;
+    --margin-primary: 0 auto;
+}
+
